@@ -103,9 +103,9 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.191.214.214:8081/repository/#browse/browse:MavenWebApplication/</url>
+	      <id>deploymentRepo</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://3.145.149.71:8081/repository/MavenWebApplication/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
